@@ -12,7 +12,7 @@ function Dealer() {
       .then(response => response.json())
       .then(data =>{ 
         setData(data);     
-
+        
 
 
         
